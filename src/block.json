@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "asmi-plus/fancy-header",
+  "title": "Fancy Header",
+  "category": "text",
+  "icon": "star-filled",
+  "description": "Adds a header with a underline hover effect.",
+  "keywords": ["header", "underline", "hover"],
+  "version": "1",
+  "textdomain": "asmi-plus",
+  "editorScript":"file:./index.js"
+}
